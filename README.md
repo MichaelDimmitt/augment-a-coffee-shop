@@ -39,6 +39,9 @@ Thinking about making:<br/>
 5) cool, earings to get for another.
 6) schedule times when will a vendor be visiting to sell cool stuff.
 7) stickers + pro tip the rounbird sticker on the togo cups is the best sticker for computer.
+8) bike rides nearby<br/>
+1) leaves from rounbird every saturday at 7:30am. (20 mph average or less)
+2) leaves from champion cycling at 7:30am. (a ride: 24mph average, b ride: 18mph average)
 
 ## Begin Coffee Trip:
 menu items you need to know ...<br/>
