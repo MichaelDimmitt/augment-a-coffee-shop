@@ -18,7 +18,7 @@ Thinking about making:<br/>
 3) scan QR codes to pick pie or sausage.
 
 ## Remember your favorite spritzer order
-1) mine is `white peach` + `deseart pear`, a 💙💙 blue spritzer 💙💙! 
+1) mine is ~~`white peach` + `deseart pear`, a 💙💙 blue spritzer 💙💙!~~ (yuck) - better combo coming soon.
  - it is okay to have many favorites!
 2) see other peoples favorites!
 
