@@ -9,6 +9,7 @@ Thinking about making:<br/>
 5) begin coffee trip: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=you%20valued%20person.-,Begin%20Coffee%20Trip%3A,-menu%20items%20you)
 6) mid coffee trip: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=new%2C%20something%20buried%2C-,Mid%20Coffee%20Trip%3A,-link%20to%0Alocation)
 7) finish coffee trip: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=instagram%20accounts.-,Finish%20Coffee%20Trip%3A,-reminder%2C%0Aplease)
+8) coffee drink dashboard - which drink is winning. starts at 3pm.
 <hr/>
 
 ## Coffeeshop Timer:
